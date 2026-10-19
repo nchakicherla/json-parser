@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
-project(json-c C)
+project(json-parser C)
 
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_C_EXTENSIONS OFF)
